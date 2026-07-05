@@ -2,7 +2,6 @@
 
 A compact, USB-C powered sensor board built around the STM32F042 microcontroller and the BMI088 6-axis IMU. Designed in Altium Designer.
 
-![PCB Render](docs/pcb_render.png)
 
 ## Overview
 
